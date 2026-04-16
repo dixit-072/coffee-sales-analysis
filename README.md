@@ -8,7 +8,7 @@ An Excel-based data analysis project focused on identifying sales trends, top-pe
 
 
 ## 📸 Dashboard Preview
-(dashboard-preview.png)
+![Dashboard](dashboard-preview.png)
 
 
 
