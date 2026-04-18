@@ -1,21 +1,16 @@
 # ☕ Coffee Shop Sales Analysis
 
-## 📊 Overview
+## 📌 Overview
 
-An Excel-based data analysis project focused on identifying sales trends, top-performing products, and business insights using an interactive dashboard.
+This project analyzes coffee shop sales data using Microsoft Excel to identify sales trends, top-performing products, and key business insights.
 
----
-
-
-## 📸 Dashboard Preview
-![Dashboard](dashboard-preview.png)
-
-
+An interactive dashboard is created to visualize KPIs and support data-driven decision-making.
 
 ---
+
 ## 🎯 Business Objective
 
-The goal of this analysis was to identify:
+The analysis aims to identify:
 
 * Peak sales hours and days
 * Top-performing products
@@ -24,11 +19,51 @@ The goal of this analysis was to identify:
 
 ---
 
+## 📂 Project Structure
+
+```id="w3t9l1"
+coffee-sales-analysis/
+│
+├── dataset/
+│   └── coffee_sales_data.xlsx
+│
+├── dashboard/
+│   └── coffee_sales_dashboard.xlsx
+│
+├── report/
+│   └── coffee_sales_report.pdf
+│
+├── screenshots/
+│   └── dashboard_preview.png
+│
+└── README.md
+```
+
+---
+
+## 📸 Dashboard Preview
+
+![Dashboard](screenshots/dashboard_preview.png)
+
+---
+
+## 📊 Dataset
+
+The dataset contains transactional sales data including:
+
+* Order date and time
+* Product category and type
+* Store location
+* Sales amount and quantity
+
+---
+
 ## 📁 Project Files
 
 * 📊 Dashboard: `dashboard/coffee_sales_dashboard.xlsx`
 * 📄 Report: `report/coffee_sales_report.pdf`
-* 📊 Live Dashboard: https://1drv.ms/x/c/23dea2a2f01093a4/IQAlwdhUuOfWQZl8xV9_65xEAQ3vlUwgGZH7ZTIe5xNAcB4?e=7YfGtd
+* 📊 Live Dashboard:
+  https://1drv.ms/x/c/23dea2a2f01093a4/IQAlwdhUuOfWQZl8xV9_65xEAQ3vlUwgGZH7ZTIe5xNAcB4?e=7YfGtd
 
 ---
 
@@ -44,10 +79,10 @@ The goal of this analysis was to identify:
 
 ## 📊 Key Metrics
 
-* Total Sales: 698,493
-* Total Footfall: 149,117
-* Avg Bill per Person: 4.68
-* Avg Orders per Person: 1.44
+* **Total Sales:** 698,493
+* **Total Footfall:** 149,117
+* **Avg Bill per Person:** 4.68
+* **Avg Orders per Person:** 1.44
 
 ---
 
@@ -70,6 +105,6 @@ The goal of this analysis was to identify:
 
 ## 📌 Note
 
-For detailed analysis, methodology, and full insights, refer to the report file.
+For detailed analysis, methodology, and complete insights, refer to the report file included in the repository.
 
-
+---
