@@ -43,7 +43,7 @@ coffee-sales-analysis/
 
 ## 📸 Dashboard Preview
 
-![Dashboard](screenshots/dashboard_preview.png)
+![Dashboard](screenshots/dashboard-preview.png)
 
 ---
 
